@@ -47,11 +47,11 @@ Check the :white_check_mark: Todos & :x: Not Todos
 |:four:|Do NOT Share the lab repo :closed_lock_with_key:|:heavy_multiplication_x:|
 |:five:|Do NOT re-use this repo for other coding activities :recycle:|:heavy_multiplication_x:|
 
-## :page_facing_up: Lab 6 Description
+## :page_facing_up: Lab Five tasks
 
-:arrow_right: `Please complete the Google firebase tutorial provided in this section.`
+:arrow_right: `Using the HTML tags provided for this lab, you need provide a CSS responsive layout.`
 
-:arrow_right: `Use this repo to build the tutorial project.`
+:arrow_right: `Provide a CSS style to the landing page.`
 
 :arrow_right: `You must use NMIT APA 7th ed. Referencing Guide`
 
